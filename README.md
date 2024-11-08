@@ -1,5 +1,3 @@
-# churn-model
-
 percobaan dengan data baris ke 0 : not churn
 
 ![image](https://github.com/user-attachments/assets/452e7401-f573-42bf-9d1b-ddf9bf3e476d)
